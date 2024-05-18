@@ -1,6 +1,8 @@
 # hey-linky
  Linky is a personalized content companion that helps you interact with and distill key insights from your favorite podcasts, videos, and general internet information through voice or chat interface.
 
+ Project developed with @jveronvialard and @perassou at the Llama 3 hackathon in San Francisco.
+
  <div align = "center">
 <h1>
     <img src = "https://github.com/jveronvialard/hey-linky/blob/main/assets/images/linky.jpeg?raw=true" width = 200 height = 200>
